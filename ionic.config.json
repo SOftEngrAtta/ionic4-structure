@@ -1,0 +1,7 @@
+{
+  "name": "sidemenu-auth",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
